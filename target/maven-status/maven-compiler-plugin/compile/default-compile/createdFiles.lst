@@ -1,0 +1,12 @@
+com\mastercard\shcomp\customer\tracker\SpringDataRestEventHandler.class
+com\mastercard\shcomp\customer\tracker\DatabaseLoader.class
+com\mastercard\shcomp\customer\tracker\SecurityConfiguration.class
+com\mastercard\shcomp\customer\tracker\TrackerUIRestApplication.class
+com\mastercard\shcomp\customer\tracker\TrackerRepository.class
+com\mastercard\shcomp\customer\tracker\HomeController.class
+com\mastercard\shcomp\customer\tracker\Manager.class
+com\mastercard\shcomp\customer\tracker\SpringDataJpaUserDetailsService.class
+com\mastercard\shcomp\customer\tracker\Tracker.class
+com\mastercard\shcomp\customer\tracker\WebSocketConfiguration.class
+com\mastercard\shcomp\customer\tracker\EventHandler.class
+com\mastercard\shcomp\customer\tracker\ManagerRepository.class

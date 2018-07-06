@@ -1,0 +1,7 @@
+#Start up the app
+./mvnw spring-boot:run
+
+#Open up a tab and navigate to
+http://localhost:8080
+
+Note :- Make sure you have java,npm and maven installed.
